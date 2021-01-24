@@ -1,5 +1,0 @@
-user_1 User
-user_2 Boy
-user_3 RichBoy
-user_4 Girl
-user_5 CowardGirl
